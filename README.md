@@ -12,4 +12,5 @@
  
   ## Dimensão mobile: 
   
-  ![image](https://user-images.githubusercontent.com/69178897/174442666-374ed212-a246-4a97-a1e8-c93f5c3d7e89.png)
+  ![image](https://user-images.githubusercontent.com/69178897/174443415-b3c1ca44-e055-4230-a58f-5457f24c4654.png)
+
